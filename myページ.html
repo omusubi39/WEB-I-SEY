@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My web</title>
+</head>
+<body>
+    <h1>初めてのWEBサイトへようこそ!!</h1>
+    <h3>代表挨拶</h3>
+    <p>こんにちは、このWEBサイトは僕が初めて作ったWEBサイトです。
+        シンプルですが、これからどんどん改良していきますので、よろしくお願いします。
+        勿論広告はありません!!</p>
+</body>
+<h2>初めてのWEBサイトの活動記録!!</h2>
+<ul>
+    <li>初めてのWEBサイトを設立しました!!</li>
+</ul>
+<h1>初めてのWEBサイトへログイン</h1>
+
+    <p>ユーザー名（ログインID）</p>
+    <input type="text" id="username">
+
+    <p>パスワード</p>
+    <input type="password" id="password">
+
+<button onclick="login()">ログイン（Sign up）
+</button>
+
+<script>
+    function login() {
+        var username = document.getElementById("username").value;
+        var password = document.getElementById("password").value;
+
+        if (username === "ikemen" && password === "3935") {
+            alert("ログイン成功！　　　　　　　　　　　初めてのWEBサイトへようこそ！と言いたいところですが、申し訳ございませんが、ただいま会員画面を作成中ですので、会員画面はまだご利用できません。会員画面が完成しましたら、またお知らせいたします。");
+            
+        
+        } else {
+            alert("ログイン失敗！ユーザー名またはパスワードが間違っています。");
+        }
+    }
+</script>
+
+<html>
+    <h4>利用規約</h4>
+    
+    <p>初めてのWEBサイトのホームページを利用するにあたり、以下の利用規約に同意していただく必要があります。　　　　　　　　　　　
+
+        １ログインをするという事は、利用規約に同意したことになります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+        ２初めてのWEBサイトを無断で転載する事は禁止されています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+
+        ３ユーザー名とパスワードは、初めてのWEBサイトの会員にのみお知らせします。　　　　　　　　　　　　　　　　　　　　　　　　　　
+        
+    </p>　
+    <style>
+body {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    font-family: Arial;
+    text-align: center;
+}
+</style>
