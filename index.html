@@ -1,76 +1,63 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <meta charset="UTF-8">
     <title>index.html</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+    </style>
 </head>
 <body>
-        <h1>初めてのWEBサイトへようこそ!!</h1>
+    <h1>初めてのWEBサイトへようこそ!!</h1>
     <h3>代表者挨拶</h3>
     <p>こんにちは、このWEBサイトは僕が初めて作ったWEBサイトです。
         シンプルですが、これからどんどん改良していきますので、よろしくお願いします。
         勿論広告はありません!!</p>
-</body>
-<h2>初めてのWEBサイトの活動記録!!</h2>
-<ul>
-    <li>初めてのWEBサイトを設立しました!!</li>
-</ul>
 
-<h2>アンケート実施!!</h2>
-<button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSd6FTRJ1oAs6rWLcFDRrrsJ4d7VSczy27zN67_d-aHEIvxQVg/viewform?usp=dialog'">アンケートに協力!！（お願いします）</button>
-<
+    <h2>初めてのWEBサイトの活動記録!!</h2>
+    <ul>
+        <li>初めてのWEBサイトを設立しました!!</li>
+    </ul>
 
- <h1>初めてのWEBサイトへログイン</h1>
+    <h2>アンケート実施!!</h2>
+    <button onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSd6FTRJ1oAs6rWLcFDRrrsJ4d7VSczy27zN67_d-aHEIvxQVg/viewform?usp=dialog'">アンケートに協力!！（お願いします）</button>
 
+    <h1>初めてのWEBサイトへログイン</h1>
     <p>ユーザー名（ログインID）</p>
     <input type="text" id="username">
-
     <p>パスワード</p>
     <input type="password" id="password">
+    <button onclick="login()">ログイン（Sign up）</button>
 
- <button onclick="login()">ログイン（Sign up）
-</button>
+    <h4>利用規約</h4>
+    <p>初めてのWEBサイトのホームページを利用するにあたり、以下の利用規約に同意していただく必要があります。<br>
+        １ログインをするという事は、利用規約に同意したことになります。<br>
+        ２初めてのWEBサイトを無断で転載する事は禁止されています。<br>
+        ３ユーザー名とパスワードは、初めてのWEBサイトの会員にのみお知らせします。<br>
+    </p>
 
-<script>
-    function login() {
-        var username = document.getElementById("username").value;
-        var password = document.getElementById("password").value;
+    <p style="color:#fc0303;">追記：このサイトは簡易的なサイトです。予告無く変更または閉鎖、消去する場合があります。誠に勝手ながらご理解ください。</p>
 
-        if (username === "hatsudayo" && password === "3935") {
-            alert("ログイン成功！　　　　　　　　　　　初めてのWEBサイトへようこそ！と言いたいところですが、申し訳ございませんが、ただいま会員画面を作成中ですので、会員画面はまだご利用できません。会員画面が完成しましたら、またお知らせいたします。");
-            
-        
-        } else {
-            alert("ログイン失敗！ユーザー名またはパスワードが間違っています。");
+    <script>
+        function login() {
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            if (username === "hatsudayo" && password === "3935") {
+                alert("ログイン成功！ 初めてのWEBサイトへようこそ！");
+                 window.location.href = "https://omusubi39.github.io/my-kain/";
+            } else {
+                alert("ログイン失敗！ユーザー名またはパスワードが間違っています。");
+            }
         }
-    }
-</script>
-
+    </script>
+</body>
 </html>
 <body>
 
 
-<html>
 
-    
-    <h4>利用規約</h4>
-    
-    <p>初めてのWEBサイトのホームページを利用するにあたり、以下の利用規約に同意していただく必要があります。　　　　　　　　　　　
-
-        １ログインをするという事は、利用規約に同意したことになります。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-
-        ２初めてのWEBサイトを無断で転載する事は禁止されています。　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-
-        ３ユーザー名とパスワードは、初めてのWEBサイトの会員にのみお知らせします。　　　　　　　　　　　　　　　　　　　　　　　　　　
-        
-    </p>　
-    <style>
-body {
-    background-color: #ffffff;
-    color: rgb(0, 0, 0);
-    font-family: Arial;
-    text-align: center;
-}
-</style>
-    <html>
-        
-<p style="color:#fc0303;">追記：このサイトは簡易的なサイトです。予告無く変更または閉鎖、消去する場合があります。誠に勝手ながらご理解ください。</p>
