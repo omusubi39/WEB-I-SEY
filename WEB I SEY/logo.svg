@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="399.57468mm"
+   height="133.19374mm"
+   viewBox="0 0 399.57468 133.19374"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="描画.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.27770604"
+     inkscape:cx="667.97251"
+     inkscape:cy="698.58041"
+     inkscape:window-width="1223"
+     inkscape:window-height="925"
+     inkscape:window-x="487"
+     inkscape:window-y="83"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="4.0274558e-06"
+       y="1.6002063e-05"
+       width="399.57468"
+       height="133.19374"
+       id="page1"
+       margin="0 0 0 0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-1724.8376,1499.6102)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:'.ADT Slab Numeric';-inkscape-font-specification:'.ADT Slab Numeric';writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:186.68;fill:#000000;stroke-width:0.264583"
+       x="1924.8521"
+       y="-1400.7731"
+       id="text1"
+       transform="matrix(2.9150871,0,0,1,-3690.6287,0)"><tspan
+         x="1924.8521"
+         y="-1400.7731"
+         id="tspan1">　</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.0278px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';writing-mode:lr-tb;direction:ltr;fill:#5a5a5a;fill-opacity:1;stroke-width:0.264583"
+       x="1747.3047"
+       y="-1404.6486"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.0278px;font-family:'Arial Unicode MS';-inkscape-font-specification:'Arial Unicode MS';fill:#13207e;fill-opacity:1;stroke-width:0.264583"
+         x="1747.3047"
+         y="-1404.6486">WEB I SEY</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#e5e500;fill-opacity:1;stroke-width:0.264583"
+       id="path32"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="1922.637"
+       sodipodi:cy="-1477.2209"
+       sodipodi:r1="14.163469"
+       sodipodi:r2="6.6568303"
+       sodipodi:arg1="1.012197"
+       sodipodi:arg2="1.6405155"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1930.1436,-1465.2103 -7.9704,-5.37 -8.6393,4.2101 2.6441,-9.2397 -6.6737,-6.9155 9.6045,-0.3405 4.5148,-8.4841 3.2918,9.0292 9.464,1.6721 -7.5701,5.9209 z"
+       inkscape:transform-center-x="0.29012234"
+       inkscape:transform-center-y="-1.0735924"
+       transform="rotate(-7.7953462,1968.9598,-1507.2714)" />
+  </g>
+</svg>
