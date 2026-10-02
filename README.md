@@ -3,7 +3,7 @@
 omusubi39による個人Webサイトです。
 
 ## 制作について
-このプロジェクトの一部はAIにより生成されています。
+このWEBサイトの一部はAIにより生成されています。
 
 ## リンク
 - [WEB I SEY-ANOTHER ](https://omusubi39.github.io/WEB-I-SEY-ANOTHER/)
